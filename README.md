@@ -1,2 +1,2 @@
 # hostelWebsite
-this is for making contribution in making hostel website more better
+this is for making contribution in making hostel website better
